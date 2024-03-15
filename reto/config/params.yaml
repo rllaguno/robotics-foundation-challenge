@@ -1,0 +1,6 @@
+Setpoint:
+  ros__parameters:
+    type_signal: 4
+    amplitude: 0.5
+    frequency: 0.1
+    offset: 0.0
